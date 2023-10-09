@@ -18,4 +18,7 @@ return [
         'path' => 'app.js',
         'preload' => true,
     ],
+    'sweetalert' => [
+        'url' => 'https://cdn.jsdelivr.net/npm/sweetalert@2.1.2/+esm',
+    ],
 ];
